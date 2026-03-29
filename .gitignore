@@ -5,3 +5,4 @@
 /coverage.xml
 *.min.js
 *.min.css
+.agents/loop-state/
