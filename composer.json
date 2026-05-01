@@ -64,10 +64,5 @@
       "rector.php",
       ".github"
     ]
-  },
-  "autoload-dev": {
-    "files": [
-      "vendor/php-stubs/wordpress-stubs/wordpress-stubs.php"
-    ]
   }
 }
